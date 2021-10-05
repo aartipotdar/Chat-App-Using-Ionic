@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "chatapp-eb1df": {
+      "hosting": {
+        "app": [
+          "chatapp-eb1df"
+        ]
+      }
+    }
+  }
+}
